@@ -8,7 +8,6 @@ This project focuses on cleaning, preprocessing, and preparing a raw Car Resale 
 - Pandas
 - NumPy
 - Jupyter Notebook
-- Power BI
 
 ## 🧹 Data Cleaning & Preprocessing Steps
 1. Loaded raw dataset
